@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Abdallah 👋
 
-<!--
-**abdallahEI12/abdallahEI12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Platform & Full Stack Engineer from Egypt 🇪🇬
 
-Here are some ideas to get you started:
+I build scalable backend systems, cloud infrastructure, and occasionally break things professionally before fixing them better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I work with
+
+* Backend: NestJS, Django, FastAPI, Express.js
+* Frontend: React, Next.js
+* Cloud & DevOps: AWS, Docker, Kubernetes
+* Observability: Prometheus, Grafana, Loki, Tempo, Alloy
+* Other interests: Embedded Systems & AI
+
+### Things I enjoy
+
+* Monitoring absolutely everything
+* Making servers survive questionable decisions
+
+Currently exploring:
+
+* Platform Engineering
+* Distributed Systems
+* Cloud-native infrastructure
+* AI applications
+
+## Connect with me
+
+* LinkedIn: [(https://www.linkedin.com/in/abdallah-essam-8943a41a0/)]
+* Portfolio: [(https://useme.com/en/roles/contractor/abdallah-esam,502304/)]
