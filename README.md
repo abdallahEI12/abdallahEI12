@@ -6,7 +6,7 @@ I build scalable backend systems, cloud infrastructure, and occasionally break t
 
 ### Tech I work with
 
-* Backend: SpringBoot NestJS, Django, FastAPI, Express.js
+* Backend: SpringBoot, NestJS, Django, FastAPI, Express.js
 * Frontend: React, Next.js
 * Cloud & DevOps: AWS, Docker, Kubernetes
 * Observability: Prometheus, Grafana, Loki, Tempo, Alloy
