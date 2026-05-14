@@ -25,6 +25,5 @@ Currently exploring:
 * AI applications
 
 ## Connect with me
-
-* LinkedIn: [(https://www.linkedin.com/in/abdallah-essam-8943a41a0/)]
-* Portfolio: [(https://useme.com/en/roles/contractor/abdallah-esam,502304/)]
+- LinkedIn: [Abdallah Essam](https://www.linkedin.com/in/abdallah-essam-8943a41a0/)
+- Portfolio: [Useme Portfolio](https://useme.com/en/roles/contractor/abdallah-esam,502304/)
